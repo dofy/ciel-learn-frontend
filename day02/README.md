@@ -1,6 +1,6 @@
 ## Day 02 - 学习 HTML 基础知识
 
-
+HTML（HyperText Markup Language）是一种用于创建网页的标准标记语言。
 
 ### 常见标签
 
